@@ -6,6 +6,7 @@ header:
   image: "/assets/images/The Steamroller and the Violin.jpg"
   filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
   caption: "A still from The Steamroller and the Violin"
+order: 8
 ---
 
 ## 8 - The Steamroller and the Violin

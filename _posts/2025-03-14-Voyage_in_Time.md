@@ -6,6 +6,7 @@ header:
   image: "/assets/images/Voyage in Time.jpg"
   filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
   caption: "A still from Voyage in Time"
+order: 9
 ---
 
 ## 9 - Voyage in Time

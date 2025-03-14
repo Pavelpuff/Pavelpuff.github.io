@@ -6,6 +6,7 @@ header:
   image: "/assets/images/There Will Be No Leave Today.jpg"
   filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
   caption: "A still from There Will Be No Leave Today"
+order: 10
 ---
 
 ## 10 - There Will Be No Leave Today

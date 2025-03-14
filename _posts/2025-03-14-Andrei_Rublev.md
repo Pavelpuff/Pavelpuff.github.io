@@ -6,6 +6,7 @@ header:
   image: "/assets/images/Andrei Rublev.jpg"
   filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
   caption: "A still from Andrei Rublev"
+order: 2
 ---
 
 ## 2 - Andrei Rublev
